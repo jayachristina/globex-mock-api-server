@@ -6,12 +6,14 @@ const port = 3000;
 
 
 app.get('/reviews/list/{:id}', (req, res) => {
+  console.log('Received request for /reviews/list/{:id}', req.originalUrl);
   filename=`./mocks/reviews-list-paginated.json`;
   readFileAsJson(filename, res);
 });
 
 
 app.get('/reviews/summary/{:id}', (req, res) => {
+console.log('Received request for /reviews/summary/{:id}', req.originalUrl);
   filename=`./mocks/reviews-summary.json`;
   readFileAsJson(filename, res);
 });
@@ -19,22 +21,26 @@ app.get('/reviews/summary/{:id}', (req, res) => {
 
 
 app.get('/services/catalog/product', (req, res) => {
+  console.log('Received request for services/catalog/product', req.originalUrl);
   filename=`./mocks/products-list-paginated.json`;
   readFileAsJson(filename, res);
 });
 
 app.get('/services/catalog/product/{:id}', (req, res) => {
+  console.log('Received request for /services/catalog/product/{:id}', req.originalUrl);
   filename=`./mocks/single-product.json`;
   readFileAsJson(filename, res);
 });
 
 app.get('/services/product/list/{:ids}', (req, res) => {
+  console.log('Received request for /services/product/list/{:ids}', req.originalUrl);
   filename=`./mocks/products-list.json`;
   readFileAsJson(filename, res);
 });
 
 app.get('/services/products', (req, res) => {
   filename=`./mocks/products-list-paginated.json`;
+  console.log('Received request for /services/products', req.originalUrl);
   readFileAsJson(filename, res);
 });
 
