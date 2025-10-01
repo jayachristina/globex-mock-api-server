@@ -1,0 +1,39 @@
+[
+  {
+    "itemId": "329299",
+    "name": "Quarkus T-shirt",
+    "desc": "Our T-Shirt is an everyday essential! This short-sleeve heavyweight T-shirt is comfortable, economical and made to last. Designed with a traditional fit that runs true to size, he’ll show off his personality, humor and interests with an easy, relaxed style.",
+    "price": 10,
+    "quantity": 736,
+    "category": "clothing"
+  },
+  {
+    "itemId": "329199",
+    "name": "Pronounced Kubernetes",
+    "desc": "Our Men's Value T-Shirt is an everyday essential! This short-sleeve heavyweight T-shirt is comfortable, economical and made to last. Designed with a traditional fit that runs true to size, he’ll show off his personality, humor and interests with an easy, relaxed style.",
+    "price": 9,
+    "quantity": 512,
+    "category": "clothing"
+  },
+  {
+    "itemId": "RHNAM-054E-RED",
+    "name": "Pronounced Kubernetes",
+    "desc": "Our Men's Value T-Shirt is an everyday essential! This short-sleeve heavyweight T-shirt is comfortable, economical and made to last. Designed with a traditional fit that runs true to size, he’ll show off his personality, humor and interests with an easy, relaxed style.",
+    "price": 9,
+    "quantity": 512
+  },
+  {
+    "itemId": "165613",
+    "name": "Pronounced Kubernetes",
+    "desc": "Our Men's Value T-Shirt is an everyday essential! This short-sleeve heavyweight T-shirt is comfortable, economical and made to last. Designed with a traditional fit that runs true to size, he’ll show off his personality, humor and interests with an easy, relaxed style.",
+    "price": 9,
+    "quantity": 512
+  },
+  {
+    "itemId": "RHNAM-222",
+    "name": "Pronounced Kubernetes",
+    "desc": "Our Men's Value T-Shirt is an everyday essential! This short-sleeve heavyweight T-shirt is comfortable, economical and made to last. Designed with a traditional fit that runs true to size, he’ll show off his personality, humor and interests with an easy, relaxed style.",
+    "price": 9,
+    "quantity": 512
+  }
+]

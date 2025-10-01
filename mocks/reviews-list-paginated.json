@@ -1,0 +1,69 @@
+{
+    "reviews": [
+        {
+            "id": "6eec7e075cb610e7ac16fbe92b90b8e1",
+            "user": "eavila",
+            "productCode": "144011",
+            "product": "Millenium 5A Maple Drumsticks",
+            "review": "Cheap, good but soft \nThese drum sticks are very cheap and nicely finished. \nThe shape of the tip is a matter of preference, I like more oval shaped tips. The sticks are very light. \nHowever, maple is a very soft wood for drum sticks so the sticks get damaged pretty soon when paying acoustic drums, especially cymbals. I recommend for paying E-drums since they're light but for acoustic I recommend hickory or hornbeam sticks since these will break or wear soon. ",
+            "stars": 4,
+            "timestamp": 1755015789000,
+            "created": "2025-08-12T16:23:09Z"
+        },
+        {
+            "id": "27450275281dd46684a378a9d7956c19",
+            "user": "onorris",
+            "productCode": "144011",
+            "product": "Millenium 5A Maple Drumsticks",
+            "review": "Not very durable \n. I was looking for sticks that would not break the bank because I always thought that the quality of the sticks was the thing that would matter the least in terms of drum sound. Compared to choosing heads and cymbals, that might be correct. Yet these Millenium sticks have taught me that it is worth to invest a little more when it comes to sticks. \nI grant these sticks feel and sound acceptable for the price. The weight is fine and they are reasonably balanced. The surface is fine as well - not too sticky, rough or smooth. \nThe downside is, these sticks are not very durable. To be fair, the way you play determines how long your sticks will last - but these just break much faster than all other sticks I have ever tried. It was often that I noticed by the sound of the snare and cymbals that the stick was broken early on before an actual crack was visible. \nWhat I use these sticks for is practicing. As they don't hit any hard surfaces when using a practice pad, they do actually last quite long. \nAll in all, I can only partially recommend these sticks. There are alternatives (Vic Firth Nova) that are much more durable and still way cheaper than the standard models. ",
+            "stars": 3,
+            "timestamp": 1755015789000,
+            "created": "2025-08-12T16:23:09Z"
+        },
+        {
+            "id": "666daaa109010de81c4bc5e110e9f73a",
+            "user": "hnguyen",
+            "productCode": "144011",
+            "product": "Millenium 5A Maple Drumsticks",
+            "review": "They're fine. Bought a whole bunch of these to have around at the studio as back-up sticks. They feel good in the hand, not glossy, seem to be balanced well enough (at the very least the ones that I've already took out of the packaging), and the sound is fine, though obviously not as crisp and defined as ones with a plastic tip, but that's fine. The only thing to consider before buying into these is their durability - maple isn't the hardest wood in the first place, and considering the price, I don't believe that they will hold up against the test of time (or more likely, against the test of endless rim shots). They're fine to have around, but for live shows I would opt for something a bit sturdier. That said, none have broken yet, but it's too soon to tell as it's only been a bit over a week since I've started using these. For the price though it's great, even if used only for backup, further playing will show how they fare in the long run. ",
+            "stars": 5,
+            "timestamp": 1755015789000,
+            "created": "2025-08-12T16:23:09Z"
+        },
+        {
+            "id": "fd50019df08b05f2f97d7827825f9e86",
+            "user": "fboone",
+            "productCode": "144011",
+            "product": "Millenium 5A Maple Drumsticks",
+            "review": "Fit for purpose at minimum cost \nI use 7A sticks and was looking to convert up to 5A for certain music styles that require a bit more \"beef\" but I wanted the weight just above my 7A's but a tad more girth which is why I chose the Maple wood, less mass than say oak or hickory. \nAt this price its easy to try types out in the knowledge that if you have erred it isn't going to be a big cost factor. \nI have to say the quality is good and the stick is not warped or poorly lathed/finished. I'm happy with them and why wouldn't I be? All of my hardware from stands to rack to pedals is/are Millenium. ",
+            "stars": 5,
+            "timestamp": 1755015789000,
+            "created": "2025-08-12T16:23:09Z"
+        },
+        {
+            "id": "ccdee195d98e6c701fe4bcc4a274ea39",
+            "user": "sbutler",
+            "productCode": "144011",
+            "product": "Millenium 5A Maple Drumsticks",
+            "review": "These are good beginners sticks for use on electric drums. Of course they could be used on acoustic kits bit in my experience they don't last very long - probably as they are maple and not hickory like pro sticks. Kids will be fine with them on acoustic kits as they don't tend to hit that hard but hard hitters will probably break them in a song or two! \nHandy as spares, back up pair or warm up sticks. Especially good if you or you're child have a habit of leaving sticks behind as they are so cheap. \nI've bought a lot of these for my students to use on the electric kits and they've been pretty good. Most of them are completely straight and of similar weight. They do tend to get stain marks from sweat though. I think this is because they don't have any laquer on them. ",
+            "stars": 5,
+            "timestamp": 1755015789000,
+            "created": "2025-08-12T16:23:09Z"
+        },
+        {
+            "id": "747a49dc4e1aa986063e6834d0bea1a1",
+            "user": "lyoder",
+            "productCode": "144011",
+            "product": "Millenium 5A Maple Drumsticks",
+            "review": "Great value sticks \nAfter paying the several times this price for other brands of sticks I'm glad I yet again found Thomann does an alternative thats as good but at a far lower cost. \nSo far had none break, (I dont hit particularly hard but I've broken sticks in the past) they chip out when playing them like an idiot on the hi hat as I some times do, just as any drum stick does but for this price I can make some cheap sawdust out of these and not have to worry about it so much. I've used other cheap drum sticks in the past that broke, tips break off, shafts crack. So far none of these have done the same. \nWould recommend them. ",
+            "stars": 5,
+            "timestamp": 1755015789000,
+            "created": "2025-08-12T16:23:09Z"
+        }
+    ],
+    "totalElements": 12,
+    "totalPages": 2,
+    "numberOfElements": 6,
+    "size": 5,
+    "number": 0
+} 

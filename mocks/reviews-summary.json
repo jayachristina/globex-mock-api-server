@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "68d51ba029e3ffa13317790c"
+    },
+    "product_code": "144011",
+    "summary": "Reviewers appreciate the affordability and good quality of these drumsticks, which offer great value compared to more expensive brands. Many find them suitable for beginners and light use, particularly on electronic drums. However, there are consistent concerns about their durability, primarily due to the softness of the maple wood, which tends to wear out quickly or chip during heavy play, especially on acoustic drums. While they are recommended as excellent backup or practice sticks, users note that hard hitters may experience breakage sooner than expected.",
+    "keywords": [
+        "Affordable",
+        "Good value",
+        "Durability concerns"
+    ],
+    "reviews": [
+        "747a49dc4e1aa986063e6834d0bea1a1",
+        "fd50019df08b05f2f97d7827825f9e86",
+        "27450275281dd46684a378a9d7956c19",
+        "ccdee195d98e6c701fe4bcc4a274ea39",
+        "6eec7e075cb610e7ac16fbe92b90b8e1",
+        "666daaa109010de81c4bc5e110e9f73a"
+    ],
+    "summary_history": [
+        {
+            "summary": "Reviewers find these drumsticks to be an affordable option with good balance and a comfortable feel. They appreciate the nice finish and light weight, making them suitable for practice, especially on electronic drums. However, many highlight the lack of durability due to the softness of the maple wood, which leads to quicker damage when playing acoustic drums. While the sticks might work well as backups or for light use, most agree that investing in a more durable option would be worthwhile for serious playing.",
+            "keywords": [
+                "Affordable",
+                "Good balance",
+                "Durability concerns"
+            ],
+            "reviews": [
+                "6eec7e075cb610e7ac16fbe92b90b8e1",
+                "27450275281dd46684a378a9d7956c19",
+                "666daaa109010de81c4bc5e110e9f73a"
+            ],
+            "average_score": 3.0,
+            "publish": true,
+            "created": "2025-09-25T10:38:24"
+        },
+        {
+            "summary": "Reviewers generally appreciate the affordability and decent quality of these drumsticks, noting that they are well-finished and comfortable to hold. Many users like the lightness and balance of the sticks, making them suitable for experimentation with different styles. However, a common concern is their durability, particularly due to the softness of the maple wood, which leads to quicker wear and breakage, especially when used on acoustic drums. While they are fine for practice or as backup sticks, most reviewers recommend investing in more durable options for regular use.",
+            "keywords": [
+                "Affordable",
+                "Good balance",
+                "Durability concerns"
+            ],
+            "reviews": [
+                "fd50019df08b05f2f97d7827825f9e86",
+                "6eec7e075cb610e7ac16fbe92b90b8e1",
+                "27450275281dd46684a378a9d7956c19",
+                "666daaa109010de81c4bc5e110e9f73a"
+            ],
+            "average_score": 3.25,
+            "publish": true,
+            "created": "2025-09-25T11:00:03"
+        },
+        {
+            "summary": "Reviewers generally find these drumsticks to be a cost-effective option that works well for beginners and practice, especially on electric drums. They appreciate the lightness and good finish of the sticks, along with their adequate balance and feel. However, a common concern is their lack of durability due to the soft maple wood, which tends to wear out quickly when used on acoustic drums. Many recommend these sticks as backups or for light use, cautioning that they may not hold up under heavy playing. Overall, they are viewed as a good choice for students or casual players.",
+            "keywords": [
+                "Cost-effective",
+                "Lightweight",
+                "Durability concerns"
+            ],
+            "reviews": [
+                "fd50019df08b05f2f97d7827825f9e86",
+                "6eec7e075cb610e7ac16fbe92b90b8e1",
+                "27450275281dd46684a378a9d7956c19",
+                "666daaa109010de81c4bc5e110e9f73a",
+                "ccdee195d98e6c701fe4bcc4a274ea39"
+            ],
+            "average_score": 3.2,
+            "publish": true,
+            "created": "2025-09-25T11:00:12"
+        }
+    ],
+    "average_score": 3.5,
+    "publish": true,
+    "created": "2025-09-25T11:00:17"
+}
